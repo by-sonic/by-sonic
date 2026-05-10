@@ -1,3 +1,17 @@
+<!-- ROSEVPN-BANNER-START -->
+<p align="center">
+  <a href="https://t.me/rosevpnru_bot">
+    <img alt="RoseVPN — быстрый VPN" src="https://img.shields.io/badge/%F0%9F%8C%B9%20RoseVPN-%D0%9F%D0%BE%D0%B4%D0%BA%D0%BB%D1%8E%D1%87%D0%B8%D1%82%D1%8C%D1%81%D1%8F%20%D0%B2%20Telegram-E63946?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1a1a" height="40"/>
+  </a>
+</p>
+<p align="center">
+  <sub><b>Быстрый VPN с обходом YouTube, Discord, Instagram</b> · Бесплатный пробный период · Подключение за 30 секунд через бот <a href="https://t.me/rosevpnru_bot">@rosevpnru_bot</a></sub>
+</p>
+
+---
+
+<!-- ROSEVPN-BANNER-END -->
+
 <!-- HERO -->
 <div align="center">
 
@@ -16,7 +30,7 @@
 <a href="https://github.com/by-sonic?tab=followers"><img src="https://img.shields.io/github/followers/by-sonic?label=Followers&style=for-the-badge&color=8B5CF6&logo=github&logoColor=white" alt="Followers"/></a>
 <a href="https://github.com/by-sonic?tab=repositories"><img src="https://img.shields.io/badge/Repos-public-2EA043?style=for-the-badge&logo=git&logoColor=white" alt="Repos"/></a>
 <a href="https://habr.com/ru/users/by-sonic"><img src="https://img.shields.io/badge/Habr-articles-77a2b6?style=for-the-badge&logo=habr&logoColor=white" alt="Habr"/></a>
-<a href="https://t.me/bysonicvpn_bot"><img src="https://img.shields.io/badge/Telegram-bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram bot"/></a>
+<a href="https://t.me/rosevpnru_bot"><img src="https://img.shields.io/badge/RoseVPN-@rosevpnru__bot-E63946?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram bot"/></a>
 
 </div>
 
@@ -152,8 +166,7 @@ I write about engineering decisions behind my open-source projects — debugging
 
 <div align="center">
 
-<a href="https://t.me/bysonicvpn_bot"><img src="https://img.shields.io/badge/-@bysonicvpn__bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://t.me/galevpn_bot"><img src="https://img.shields.io/badge/-@galevpn__bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://t.me/rosevpnru_bot"><img src="https://img.shields.io/badge/-@rosevpnru__bot-E63946?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="mailto:markkachinski18@proton.me"><img src="https://img.shields.io/badge/-Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
 
 </div>
